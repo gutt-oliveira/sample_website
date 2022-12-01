@@ -1,13 +1,5 @@
+# SAMPLE WEBSITE
 
-<html>
-    <head>
-        <title>SAMPLE WEBSITE</title>
+  Add some content about future site
 
-    </head>
-    <body>
-        <h1> Add some content about future site. </h1>
- 
-        <p> <strong>Elena</strong> dad <em>loves you.</em>
-        </p>
-    </body>
-</html>
+ <strong>Elena</strong> dad <em>loves you.</em>
